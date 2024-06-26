@@ -1,8 +1,15 @@
-# React + Vite
+# ColorPicker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the ColorPicker project! This website is a fun, interactive tool designed to allow users to pick colors for both text and background, enhancing their experience with dynamic web content. This project is not only about creating a useful tool but also serves as a platform for me to sharpen my skills with React, particularly focusing on using hooks and managing state.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Color Selection**: Users can select and immediately see the effects of their color choices on both text and background.
+- **React Hooks**: Utilizes `useState` for managing state in a functional component setup.
+- **Responsive Design**: Ensures that the color picker is usable on devices of all sizes.
+
+
+### Prerequisites
+- [Node.js](https://nodejs.org/en/) (version 12.x or later)
+- [npm](https://npmjs.com/) (usually
+
