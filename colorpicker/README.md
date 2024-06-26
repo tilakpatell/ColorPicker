@@ -11,8 +11,7 @@ Welcome to the ColorPicker project! This website is a fun, interactive tool desi
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/) (version 12.x or later)
-- [npm](https://npmjs.com/) (usually
-
+- npm
 ## Interface
 
 Here's a look at the ColorPicker in action:
