@@ -13,3 +13,8 @@ Welcome to the ColorPicker project! This website is a fun, interactive tool desi
 - [Node.js](https://nodejs.org/en/) (version 12.x or later)
 - [npm](https://npmjs.com/) (usually
 
+## Interface
+
+Here's a look at the ColorPicker in action:
+
+![ColorPicker Screenshot](picture.png)
